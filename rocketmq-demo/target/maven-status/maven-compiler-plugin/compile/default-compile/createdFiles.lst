@@ -1,0 +1,4 @@
+com\example\mqdemo\DemoConsumer.class
+com\example\mqdemo\DemoController.class
+com\example\mqdemo\DemoProducer.class
+com\example\mqdemo\RocketMqDemoApplication.class

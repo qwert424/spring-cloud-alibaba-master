@@ -1,0 +1,241 @@
+{
+  "title": "Spring Cloud Alibaba 微服务架构",
+  "author": "AI大全栈（扩展版）",
+  "description": "以图书管理系统为贯穿案例，从单体系统的困境讲到微服务架构落地：注册中心与 Nacos、OpenFeign 远程调用、Spring Cloud LoadBalancer 负载均衡、Nacos Config 配置中心、Spring Cloud Gateway 网关、RocketMQ 消息驱动、Seata 分布式事务、Sentinel 服务保障，以及基于 Micrometer Tracing 的可观测性与容器化交付，共 52 讲。",
+  "playerPath": "AI大全栈 / Java / Spring Cloud Alibaba",
+  "resourceUrl": "https://gitee.com/dev-edu/spring-cloud",
+  "skills": [
+    "微服务架构",
+    "单体系统问题分析",
+    "微服务拆分",
+    "DDD限界上下文",
+    "Spring Cloud Alibaba",
+    "Nacos注册中心",
+    "Nacos配置中心",
+    "OpenFeign",
+    "Spring Cloud LoadBalancer",
+    "自定义负载均衡",
+    "Spring Cloud Gateway",
+    "RocketMQ",
+    "Seata分布式事务",
+    "Sentinel限流熔断",
+    "可观测性",
+    "Micrometer Tracing",
+    "容器化部署",
+    "灰度发布",
+    "幂等设计",
+    "服务治理"
+  ],
+  "type": "录播",
+  "status": "已上架",
+  "catalog": [
+    {
+      "title": "课程导言",
+      "showIndex": true
+    },
+    {
+      "title": "单体系统存在的问题分析",
+      "showIndex": true
+    },
+    {
+      "title": "微服务架构的特性",
+      "showIndex": true
+    },
+    {
+      "title": "微服务架构的实施方法",
+      "showIndex": true
+    },
+    {
+      "title": "微服务架构核心组件",
+      "showIndex": true
+    },
+    {
+      "title": "微服务架构技术选型",
+      "showIndex": true
+    },
+    {
+      "title": "Spring Cloud Alibaba简介",
+      "showIndex": true
+    },
+    {
+      "title": "项目案例分析：图书管理系统",
+      "showIndex": true
+    },
+    {
+      "title": "微服务架构与案例系统初始化",
+      "showIndex": true
+    },
+    {
+      "title": "Spring Cloud Alibaba技术栈集成",
+      "showIndex": true
+    },
+    {
+      "title": "微服务拆分与接口设计",
+      "showIndex": true
+    },
+    {
+      "title": "公共模块建设",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos部署与快速上手",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos高可用集群搭建",
+      "showIndex": true
+    },
+    {
+      "title": "图书服务注册到Nacos",
+      "showIndex": true
+    },
+    {
+      "title": "用户与订单服务注册",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos服务发现实战",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos分级模型与Namespace环境隔离",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos Group分组与多环境切换",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos权重路由与元数据治理",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos API 专题",
+      "showIndex": true
+    },
+    {
+      "title": "OpenFeign快速上手",
+      "showIndex": true
+    },
+    {
+      "title": "OpenFeign核心注解详解",
+      "showIndex": true
+    },
+    {
+      "title": "OpenFeign拦截器与上下文透传",
+      "showIndex": true
+    },
+    {
+      "title": "OpenFeign与LoadBalancer集成",
+      "showIndex": true
+    },
+    {
+      "title": "订单-图书远程调用重构",
+      "showIndex": true
+    },
+    {
+      "title": "Spring Cloud LoadBalancer快速上手",
+      "showIndex": true
+    },
+    {
+      "title": "负载均衡算法与LoadBalancer",
+      "showIndex": true
+    },
+    {
+      "title": "自定义负载均衡策略与平滑加权轮询",
+      "showIndex": true
+    },
+    {
+      "title": "远程调用可靠性：超时、重试与幂等",
+      "showIndex": true
+    },
+    {
+      "title": "Nacos Config配置中心快速上手",
+      "showIndex": true
+    },
+    {
+      "title": "配置隔离、共享与多环境管理",
+      "showIndex": true
+    },
+    {
+      "title": "配置动态刷新与灰度发布",
+      "showIndex": true
+    },
+    {
+      "title": "配置中心安全与治理实践",
+      "showIndex": true
+    },
+    {
+      "title": "Spring Cloud Gateway快速上手",
+      "showIndex": true
+    },
+    {
+      "title": "路由断言工厂与过滤器",
+      "showIndex": true
+    },
+    {
+      "title": "网关统一鉴权与限流",
+      "showIndex": true
+    },
+    {
+      "title": "网关动态路由、跨域与高可用",
+      "showIndex": true
+    },
+    {
+      "title": "RocketMQ概述与部署",
+      "showIndex": true
+    },
+    {
+      "title": "消息发送与消费实战",
+      "showIndex": true
+    },
+    {
+      "title": "顺序消息、延迟消息与事务消息",
+      "showIndex": true
+    },
+    {
+      "title": "消息可靠性与幂等设计",
+      "showIndex": true
+    },
+    {
+      "title": "分布式事务理论与Seata架构",
+      "showIndex": true
+    },
+    {
+      "title": "Seata AT模式实战",
+      "showIndex": true
+    },
+    {
+      "title": "TCC、Saga、XA模式与选型",
+      "showIndex": true
+    },
+    {
+      "title": "Sentinel快速上手与流量控制",
+      "showIndex": true
+    },
+    {
+      "title": "Sentinel熔断降级与热点参数限流",
+      "showIndex": true
+    },
+    {
+      "title": "Sentinel规则持久化与集群流控",
+      "showIndex": true
+    },
+    {
+      "title": "Micrometer Tracing与链路追踪",
+      "showIndex": true
+    },
+    {
+      "title": "日志关联、指标监控与告警",
+      "showIndex": true
+    },
+    {
+      "title": "容器化部署与生产实践",
+      "showIndex": true
+    },
+    {
+      "title": "课程总结与架构演进路线",
+      "showIndex": true
+    }
+  ]
+}
